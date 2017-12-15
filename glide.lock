@@ -1,0 +1,8 @@
+hash: b9d35dcf6185b49b7307fe99935d962fb94e0462f90a99fbb6a90c57fe14e022
+updated: 2017-12-15T16:01:07.378862+09:00
+imports:
+- name: github.com/gographics/imagick
+  version: b231e622f10dba6f961e73e1b3ce0b55cc39f831
+  subpackages:
+  - imagick
+testImports: []
