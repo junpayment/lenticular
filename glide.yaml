@@ -1,6 +1,6 @@
 package: lenticular
 import:
-- package: github.com/gographics/imagick
+- package: gopkg.in/gographics/imagick.v3/imagick/types
   version: ^3.1.1
   subpackages:
   - imagick
